@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="springTutorial3"
+  id="myeclipse.1336844173431"
+  context-root="/springTutorial3"
+  j2ee-spec="5.0"
+  archive="springTutorial3.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

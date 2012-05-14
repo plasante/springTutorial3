@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING25_CORE"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING25_PERSISTENCE_CORE"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING25_AOP"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING25_PERSISTENCE_JDBC"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING25_PERSISTENCE_JDO"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING25_PERSISTENCE_IBATIS"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING25_J2EE"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING25_REMOTING"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING25_WEB"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING25_TESTING"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING_WEBFLOW_10_CORE"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING_JAVACONFIG_CORE"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING_WEBFLOW_20_CORE"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.jpa2.MYECLIPSE_OPENJPA20"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.lib.jpa2.MYECLIPSE_ECLIPSELINK21"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.persistence.jpa.MYECLIPSE_ECLIPSELINK"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.persistence.jpa.MYECLIPSE_OPENJPA"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.persistence.jpa.MYECLIPSE_TOPLINK_ESSENTIALS"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING_SECURITY_20"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING_WEBFLOW_20_JSF"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.springframework.MYECLIPSE_SPRING25_SUPPORT"/>
+	<classpathentry kind="lib" path="C:/Users/pierre/Downloads/mysql-connector-java-5.1.19/mysql-connector-java-5.1.19/mysql-connector-java-5.1.19-bin.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
